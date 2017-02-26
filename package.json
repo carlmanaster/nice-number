@@ -1,6 +1,6 @@
 {
   "name": "nice-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compact formatting of numbers",
   "main": "nice-number.js",
   "scripts": {
