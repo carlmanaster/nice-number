@@ -1,0 +1,25 @@
+{
+  "name": "nice-number",
+  "version": "1.0.0",
+  "description": "Compact formatting of numbers",
+  "main": "nice-number.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlmanaster/nice-number.git"
+  },
+  "keywords": [
+    "format"
+  ],
+  "author": "Carl Manaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlmanaster/nice-number/issues"
+  },
+  "homepage": "https://github.com/carlmanaster/nice-number#readme",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
