@@ -4,7 +4,8 @@
   "description": "Compact formatting of numbers",
   "main": "nice-number.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "deploy": "./deploy.sh"
   },
   "repository": {
     "type": "git",
